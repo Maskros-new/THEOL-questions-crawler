@@ -6,7 +6,7 @@ blackboard教学平台 中国海洋大学(OUC) 毛概题库爬取 (BY PYTHON)  *
 
 > 当前版本为自动开始测试和提交，自动爬取题库，**接近全自动**
 
-- 具体实现过程请参照我的博客 [link](https://maskros.top/2021/11/10/maogai_crawler/)
+- 具体实现过程请参照我的博客 [link](http://maskros.top/post/projects%2Fmaogai_crawler)
 - 现成的题库见根目录下的 `Question_Bank` 文件夹，`Round_x` 表示第 `x` 轮题库的结果
 
 - (2021/12/21) 2021秋季学期总题库已更新完毕
